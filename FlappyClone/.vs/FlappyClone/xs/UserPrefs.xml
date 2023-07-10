@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{0B7DE1E9-A479-2F75-5CE3-C68DE2A89690}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/birdjump.cs">
+    <Files>
+      <File FileName="Assets/birdjump.cs" Line="1" Column="1" />
+      <File FileName="Assets/move.cs" Line="1" Column="3" />
+      <File FileName="Assets/makepipe.cs" />
+      <File FileName="Assets/score.cs" />
+      <File FileName="Assets/scoreup.cs" />
+      <File FileName="Assets/replay.cs" />
+      <File FileName="Assets/currentscore.cs" />
+      <File FileName="Assets/bestscore.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2b75211d-3bc3-432b-a0ea-517667d46587" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
